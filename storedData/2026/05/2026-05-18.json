@@ -79,17 +79,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "5/12/2025",
-      "lastYearEPS": "($0.01)",
-      "time": "time-not-supplied",
-      "symbol": "NAK",
-      "name": "Northern Dynasty Minerals, Ltd.",
-      "marketCap": "$1,213,552,680",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
       "lastYearRptDt": "5/21/2025",
       "lastYearEPS": "$0.03",
       "time": "time-pre-market",
@@ -109,7 +98,7 @@
       "marketCap": "$1,014,217,633",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "5/19/2025",
@@ -131,7 +120,7 @@
       "marketCap": "$745,364,461",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "5/19/2025",
@@ -143,17 +132,6 @@
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "$0.51",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "5/12/2025",
-      "lastYearEPS": "($0.13)",
-      "time": "time-not-supplied",
-      "symbol": "PROK",
-      "name": "ProKidney Corp.",
-      "marketCap": "$516,362,470",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.13)",
-      "noOfEsts": "3"
     },
     {
       "lastYearRptDt": "N/A",
@@ -197,17 +175,6 @@
       "marketCap": "$403,027,080",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "5/05/2025",
-      "lastYearEPS": "($0.42)",
-      "time": "time-not-supplied",
-      "symbol": "IMRX",
-      "name": "Immuneering Corporation",
-      "marketCap": "$332,543,747",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.30)",
       "noOfEsts": "2"
     },
     {
@@ -231,17 +198,6 @@
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "5/15/2025",
-      "lastYearEPS": "($0.18)",
-      "time": "time-pre-market",
-      "symbol": "DUOT",
-      "name": "Duos Technologies Group, Inc.",
-      "marketCap": "$251,649,281",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.03)",
-      "noOfEsts": "1"
     },
     {
       "lastYearRptDt": "N/A",
@@ -285,17 +241,6 @@
       "marketCap": "$143,367,970",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "5/15/2025",
-      "lastYearEPS": "($0.34)",
-      "time": "time-pre-market",
-      "symbol": "NRXP",
-      "name": "NRX Pharmaceuticals, Inc.",
-      "marketCap": "$106,147,092",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.05)",
       "noOfEsts": "2"
     },
     {
@@ -321,34 +266,23 @@
       "noOfEsts": "2"
     },
     {
-      "lastYearRptDt": "5/12/2025",
-      "lastYearEPS": "($0.56)",
-      "time": "time-not-supplied",
-      "symbol": "CRVO",
-      "name": "CervoMed Inc.",
-      "marketCap": "$34,812,783",
+      "lastYearRptDt": "5/01/2025",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "SACH",
+      "name": "Sachem Capital Corp.",
+      "marketCap": "$50,365,531",
       "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.90)",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "5/12/2025",
-      "lastYearEPS": "($1.50)",
-      "time": "time-not-supplied",
-      "symbol": "BTAI",
-      "name": "BioXcel Therapeutics, Inc.",
-      "marketCap": "$32,760,249",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "($0.59)",
-      "noOfEsts": "2"
+      "epsForecast": "",
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($4.80)",
-      "time": "time-pre-market",
-      "symbol": "AGPU",
-      "name": "Axe Compute Inc.",
-      "marketCap": "$31,019,895",
+      "lastYearEPS": "$0.07",
+      "time": "time-after-hours",
+      "symbol": "PXS",
+      "name": "Pyxis Tankers Inc.",
+      "marketCap": "$44,285,849",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
       "noOfEsts": "2"
@@ -366,28 +300,6 @@
     },
     {
       "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.33)",
-      "time": "time-not-supplied",
-      "symbol": "SCNX",
-      "name": "Scienture Holdings, Inc.",
-      "marketCap": "$16,699,265",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "2"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($0.27)",
-      "time": "time-not-supplied",
-      "symbol": "HOTH",
-      "name": "Hoth Therapeutics, Inc.",
-      "marketCap": "$12,737,097",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
       "lastYearEPS": "($0.16)",
       "time": "time-not-supplied",
       "symbol": "EDUC",
@@ -395,7 +307,7 @@
       "marketCap": "$12,596,819",
       "fiscalQuarterEnding": "Feb/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -406,18 +318,7 @@
       "marketCap": "$11,905,417",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($1.65)",
-      "time": "time-not-supplied",
-      "symbol": "CLRO",
-      "name": "ClearOne, Inc.",
-      "marketCap": "$8,895,745",
-      "fiscalQuarterEnding": "Mar/2026",
-      "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -450,7 +351,7 @@
       "marketCap": "$2,943,977",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
@@ -461,7 +362,7 @@
       "marketCap": "$1,931,726",
       "fiscalQuarterEnding": "Mar/2026",
       "epsForecast": "",
-      "noOfEsts": "N/A"
+      "noOfEsts": "2"
     },
     {
       "lastYearRptDt": "N/A",
