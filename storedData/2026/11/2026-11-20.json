@@ -2,6 +2,17 @@
   "date": "2026-11-20",
   "data": [
     {
+      "lastYearRptDt": "N/A",
+      "lastYearEPS": "N/A",
+      "time": "time-pre-market",
+      "symbol": "BSP",
+      "name": "Bending Spoons S.p.A.",
+      "marketCap": "$31,314,071,600",
+      "fiscalQuarterEnding": "Sep/2026",
+      "epsForecast": "$0.26",
+      "noOfEsts": "1"
+    },
+    {
       "lastYearRptDt": "11/21/2025",
       "lastYearEPS": "$1.16",
       "time": "time-pre-market",
@@ -21,7 +32,7 @@
       "marketCap": "$9,951,243,300",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/21/2025",
@@ -43,7 +54,7 @@
       "marketCap": "$9,771,505,700",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "11/21/2025",
@@ -65,18 +76,18 @@
       "marketCap": "$5,926,658,000",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
       "lastYearEPS": "$0.96",
-      "time": "time-not-supplied",
+      "time": "time-pre-market",
       "symbol": "BKE",
       "name": "Buckle, Inc. (The)",
       "marketCap": "$2,285,606,660",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -87,7 +98,7 @@
       "marketCap": "$194,094,288",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -98,7 +109,7 @@
       "marketCap": "$66,426,532",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",

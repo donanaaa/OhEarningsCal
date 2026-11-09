@@ -113,17 +113,6 @@
     },
     {
       "lastYearRptDt": "12/03/2025",
-      "lastYearEPS": "$0.03",
-      "time": "time-not-supplied",
-      "symbol": "PATH",
-      "name": "UiPath, Inc.",
-      "marketCap": "$6,780,231,700",
-      "fiscalQuarterEnding": "Oct/2026",
-      "epsForecast": "$0.10",
-      "noOfEsts": "4"
-    },
-    {
-      "lastYearRptDt": "12/03/2025",
       "lastYearEPS": "$0.09",
       "time": "time-not-supplied",
       "symbol": "M",
@@ -208,6 +197,17 @@
       "marketCap": "$1,588,051,970",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "$0.05",
+      "noOfEsts": "4"
+    },
+    {
+      "lastYearRptDt": "12/08/2025",
+      "lastYearEPS": "$0.10",
+      "time": "time-after-hours",
+      "symbol": "PHR",
+      "name": "Phreesia, Inc.",
+      "marketCap": "$788,921,730",
+      "fiscalQuarterEnding": "Oct/2026",
+      "epsForecast": "$0.13",
       "noOfEsts": "4"
     },
     {
