@@ -53,7 +53,7 @@
       "name": "NetEase, Inc.",
       "marketCap": "$76,332,884,000",
       "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "$2.40",
+      "epsForecast": "$2.37",
       "noOfEsts": "2"
     },
     {
@@ -365,17 +365,6 @@
       "noOfEsts": "3"
     },
     {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "$1.43",
-      "time": "time-not-supplied",
-      "symbol": "XYF",
-      "name": "X Financial",
-      "marketCap": "$291,992,544",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
       "lastYearRptDt": "11/17/2025",
       "lastYearEPS": "$0.24",
       "time": "time-after-hours",
@@ -503,17 +492,6 @@
       "symbol": "MIRA",
       "name": "MIRA Pharmaceuticals, Inc.",
       "marketCap": "$26,894,136",
-      "fiscalQuarterEnding": "Sep/2026",
-      "epsForecast": "",
-      "noOfEsts": "3"
-    },
-    {
-      "lastYearRptDt": "N/A",
-      "lastYearEPS": "($29.34)",
-      "time": "time-not-supplied",
-      "symbol": "ZONE",
-      "name": "Zone Frontier Inc.",
-      "marketCap": "$26,684,396",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
       "noOfEsts": "3"

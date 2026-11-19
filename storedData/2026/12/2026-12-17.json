@@ -97,8 +97,8 @@
       "name": "CarMax Inc",
       "marketCap": "$7,129,787,400",
       "fiscalQuarterEnding": "Nov/2026",
-      "epsForecast": "$0.42",
-      "noOfEsts": "8"
+      "epsForecast": "$0.43",
+      "noOfEsts": "9"
     },
     {
       "lastYearRptDt": "12/18/2025",
@@ -219,7 +219,7 @@
       "marketCap": "$7,306,670",
       "fiscalQuarterEnding": "Sep/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     },
     {
       "lastYearRptDt": "N/A",
@@ -230,7 +230,7 @@
       "marketCap": "$3,068,192",
       "fiscalQuarterEnding": "Oct/2026",
       "epsForecast": "",
-      "noOfEsts": "1"
+      "noOfEsts": "N/A"
     }
   ]
 }
